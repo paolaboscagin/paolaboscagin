@@ -11,10 +11,10 @@ On this journey that took me about six months to complete, I faced some of the m
 - 🌱 I’m currently doing my Master's degrees in Cognitive Neuroscience and Neurobiology, and I'm enrolled in a MicroMasters program in Statistics and Data Science at Massachusetts Institute of Technology (MIT).  
   
 
-- 🔭 I’m currently working on [100 Days of Code](https://www.udemy.com/course/100-days-of-code).  Next up: I will post my projects related to Python, R, Statistics, Data Science, Machine Learning, Computational Neuroscience, Neural Networks and Deep Learning, and Julia.
-  
+- 🔭 I’m currently working on [100 Days of Code](https://www.udemy.com/course/100-days-of-code).
 
-- ⚡ Now resting my legs and letting my brain do its part.  
+  
+- ⚡ Next up: I will post my projects related to Python, R, Statistics, Data Science, Machine Learning, Computational Neuroscience, Neural Networks and Deep Learning, and Julia. 
   
 
 <br/>  
@@ -23,7 +23,7 @@ On this journey that took me about six months to complete, I faced some of the m
 ## My Skill Set  
 
 
-### Frontend  
+###   
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
