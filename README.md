@@ -1,5 +1,5 @@
 
-### <div align="center">Hi there 👋! I'm Paola, a graduate student focusing on Computational Neuroscience and Neurobiology 🧠 
+### <div align="center">Hi there 👋! I'm Paola, a Psychology graduate now specializing in Computational Neuroscience and Neurobiology 🧠 
 A project I'm working on and will be available soon: [BrainBits.org](http://www.brainbits.org)</div>  
   
 
