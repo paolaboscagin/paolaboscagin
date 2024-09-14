@@ -11,7 +11,7 @@ On this journey that took me about six months to complete, I faced some of the m
 - 🌱 I’m currently doing my Master's degrees in Cognitive Neuroscience and Neurobiology, and I'm enrolled in a MicroMasters program in Statistics and Data Science at Massachusetts Institute of Technology (MIT).  
   
 
-- 🔭 I’m currently working on [100 Days of Code]([https://www.udemy.com/course/100-days-of-code](https://github.com/paolaboscagin/100-Days-of-Code-Python)).
+- 🔭 I’m currently working on [100 Days of Code](https://github.com/paolaboscagin/100-Days-of-Code-Python).
 
   
 - ⚡ Next up: I will post my projects related to Python, R, Statistics, Data Science, Machine Learning, Computational Neuroscience, Neural Networks and Deep Learning, and Julia. 
