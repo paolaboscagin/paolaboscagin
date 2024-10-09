@@ -8,7 +8,7 @@ After five years spent in China, I returned home by bicycle on the ancient Silk 
 On this journey that took me about six months to complete, I faced some of the most incredible challenges of my life and learned some of the most valuable lessons.   
   
 
-- 🌱 I’m currently doing my Master's degrees in Cognitive Neuroscience and Neurobiology, and I'm enrolled in a MicroMasters program in Statistics and Data Science at Massachusetts Institute of Technology (MIT).  
+- 🌱 At present I’m attending my Master's degrees in Cognitive Neuroscience and Neurobiology, and I'm enrolled in a MicroMasters program in Statistics and Data Science at Massachusetts Institute of Technology (MIT).  
   
 
 - 🔭 I’m currently working on [100 Days of Code](https://github.com/paolaboscagin/100-Days-of-Code-Python).
